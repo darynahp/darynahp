@@ -65,5 +65,5 @@ Figma • Adobe Suite • WordPress (legacy experience)
 
 📫 **Let’s Connect**
 
-- LinkedIn: [https://www.linkedin.com/in/darynahopanchuk]  
+- LinkedIn: **https://www.linkedin.com/in/darynahopanchuk**  
 - Email: **darynahopanchuk@gmail.com**
