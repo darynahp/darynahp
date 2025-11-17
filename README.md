@@ -1,80 +1,69 @@
-👋 Hi, I'm Daryna
+👋 **Hi, I'm Daryna**
 
-Junior QA Engineer in training | Manual Testing | Web | API | SQL
+**Junior QA Engineer in training | Manual Testing | Web | API | SQL**
 
-I’m transitioning into QA after several years of hands-on digital work, bringing a strong sense of structure, visual clarity, and analytical thinking.
+I’m transitioning into QA after several years of hands-on digital work, bringing a strong sense of structure, visual clarity, and analytical thinking.  
 Currently completing my QA program at Mate Academy and building practical projects that reflect real testing workflows: functional checks, regression cycles, exploratory testing, API requests, and clean, readable documentation.
 
 I love well-organized systems, thoughtful UX, and that oddly satisfying moment when a bug finally shows itself in all its chaotic glory.
 
-🚀 What I’m Working On
+---
 
-A full Manual Web Testing project with test cases, bug reports, and a test summary
+🚀 **What I’m Working On**
 
-Practicing API testing with Postman
+- Manual Web Testing project (test cases, bug reports, summary)  
+- API testing with Postman  
+- SQL validation queries  
+- Exploratory testing reports  
+- Improving Git workflow and documentation  
 
-Creating SQL validation queries
+---
 
-Writing exploratory testing reports
+🧪 **QA Skill Set**
 
-Improving my Git workflow and QA documentation style
+**Testing Types:**  
+Functional • Regression • Smoke • Exploratory • UI/UX Review • Cross-browser • Responsive  
 
-🧪 QA Skill Set
+**Testing Techniques:**  
+Boundary Value Analysis • Equivalence Partitioning • Test Case Design • Bug Reporting  
 
-Testing Types:
-Functional • Regression • Smoke • Exploratory • UI/UX Review • Cross-browser • Responsive
+**Tools:**  
+Jira • TestRail • Postman • Git • GitHub • Chrome DevTools • Linux (basic)  
 
-Testing Techniques:
-Boundary Value Analysis • Equivalence Partitioning • Test Case Design • Bug Reporting
+**Tech:**  
+HTML • CSS • JavaScript (basics) • SQL  
 
-Tools:
-Jira • TestRail • Postman • Git • GitHub • Chrome DevTools • Linux (basic)
-
-Tech:
-HTML • CSS • JavaScript (basics) • SQL
-
-Other:
+**Other:**  
 Figma • Adobe Suite • WordPress (legacy experience)
 
-📂 My QA Projects
-🔍 1. Web Application Manual Testing
+---
 
-20+ structured test cases
+📂 **My QA Projects**
 
-10+ bugs with repro steps
+**1. Web Application Manual Testing**  
+- 20+ structured test cases  
+- 10+ bugs with repro steps  
+- Test summary report  
+- Tools: Jira, TestRail  
+> _Repository: coming soon_
 
-Test summary report
+**2. SQL Testing & Data Validation**  
+- Filtering, sorting, grouping  
+- Joins  
+- CRUD basics  
+- Real QA-style data checks  
+> _Repository: coming soon_
 
-Tools: Jira, TestRail
+**3. Postman API Testing**  
+- Positive & negative scenarios  
+- Collections  
+- Basic scripts  
+- API documentation  
+> _Repository: coming soon_
 
-Repository: coming soon
+---
 
-🗄️ 2. SQL Testing & Data Validation
+📫 **Let’s Connect**
 
-Filtering, sorting, grouping
-
-Joins
-
-CRUD basics
-
-Real QA-style data checks
-
-Repository: coming soon
-
-🔌 3. Postman API Testing
-
-Positive & negative scenarios
-
-Collections
-
-Basic scripts
-
-API documentation
-
-Repository: coming soon
-
-📫 Let’s Connect
-
-LinkedIn: (add your link)
-
-Email: darynahopanchuk@gmail.com
+- LinkedIn: _(add link)_  
+- Email: **darynahopanchuk@gmail.com**
