@@ -1,4 +1,4 @@
-👋 **Hi, I'm Daryna**
+**Hi, I'm Daryna**
 
 **Junior QA Engineer in training | Manual Testing | Web | API | SQL**
 
@@ -9,7 +9,7 @@ I love well-organized systems, thoughtful UX, and that oddly satisfying moment w
 
 ---
 
-🚀 **What I’m Working On**
+**What I’m Working On**
 
 - Manual Web Testing project (test cases, bug reports, summary)  
 - API testing with Postman  
@@ -19,7 +19,7 @@ I love well-organized systems, thoughtful UX, and that oddly satisfying moment w
 
 ---
 
-🧪 **QA Skill Set**
+**QA Skill Set**
 
 **Testing Types:**  
 Functional • Regression • Smoke • Exploratory • UI/UX Review • Cross-browser • Responsive  
@@ -34,16 +34,17 @@ Jira • TestRail • Postman • Git • GitHub • Chrome DevTools • Linux (
 HTML • CSS • JavaScript (basics) • SQL  
 
 **Other:**  
-Figma • Adobe Suite • WordPress (legacy experience)
+Figma • Adobe Suite • WordPress
 
 ---
 
-📂 **My QA Projects**
+**My QA Projects**
 
 **1. Web Application Manual Testing**  
-- 20+ structured test cases  
-- 10+ bugs with repro steps  
-- Test summary report  
+- 246+ structured test cases  
+- 54+ bugs with repro steps  
+- Test plan
+- Testing Techniques: Functional Testing, Regression Testing, Exploratory Testing, Boundary Value Analysis, Equivalence Partitioning 
 - Tools: Jira, TestRail  
 > _Repository: coming soon_
 
@@ -63,7 +64,7 @@ Figma • Adobe Suite • WordPress (legacy experience)
 
 ---
 
-📫 **Let’s Connect**
+**Let’s Connect**
 
 - LinkedIn: **https://www.linkedin.com/in/darynahopanchuk**  
 - Email: **darynahopanchuk@gmail.com**
