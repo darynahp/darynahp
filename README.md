@@ -5,7 +5,7 @@
 I’m transitioning into QA after several years of hands-on digital work, bringing a strong sense of structure, visual clarity, and analytical thinking.  
 Currently completing my QA program at Mate Academy and building practical projects that reflect real testing workflows: functional checks, regression cycles, exploratory testing, API requests, and clean, readable documentation.
 
-I love well-organized systems, thoughtful UX, and that oddly satisfying moment when a bug finally shows itself in all its chaotic glory.
+I'm passionate about organized systems, thoughtful UX, and the oddly satisfying moment when a bug finally reveals itself.
 
 ---
 
