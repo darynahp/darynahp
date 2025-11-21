@@ -46,7 +46,7 @@ Figma • Adobe Suite • WordPress
 - Test plan
 - Testing Techniques: Functional Testing, Regression Testing, Exploratory Testing, Boundary Value Analysis, Equivalence Partitioning 
 - Tools: Jira, TestRail  
-> _Repository: coming soon_
+> [QA Manual Testing Portfolio](https://github.com/darynahp/QA-Manual-Testing-Portfolio)
 
 **2. SQL Testing & Data Validation**  
 - Filtering, sorting, grouping  
