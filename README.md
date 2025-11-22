@@ -53,7 +53,7 @@ Figma • Adobe Suite • WordPress
 - Joins  
 - CRUD basics  
 - Real QA-style data checks  
-> _Repository: coming soon_
+> [QA SQL Portfolio](https://github.com/darynahp/QA-SQL-Portfolio)
 
 **3. Postman API Testing**  
 - Positive & negative scenarios  
