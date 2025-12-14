@@ -71,7 +71,7 @@ I’m passionate about organized systems, thoughtful UX, and the oddly satisfyin
 - Test plan
 - Testing Techniques: Functional Testing, Regression Testing, Exploratory Testing, Boundary Value Analysis, Equivalence Partitioning 
 - Tools: Jira, TestRail  
-> [QA Manual Testing Portfolio](https://github.com/darynahp/QA-Manual-Testing-Portfolio)
+> [Conduit QA Manual Testing Portfolio](https://github.com/darynahp/QA-Manual-Testing-Portfolio)
 
 **2. SQL Testing & Data Validation**  
 - Filtering, sorting, grouping  
