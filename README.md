@@ -35,8 +35,8 @@ I’m passionate about organized systems, thoughtful UX, and the oddly satisfyin
 ### Testing Techniques
 - Boundary Value Analysis
 - Equivalence Partitioning
-- Test Case Design
-- Bug Reporting
+- Requirements Traceability Matrix - RTM
+- Permission Testing
 
 ### Tools
 - Jira
