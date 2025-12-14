@@ -1,42 +1,67 @@
-**Hi, I'm Daryna**
+## Hi, I'm Daryna 👋
 
-**Junior QA Engineer in training | Manual Testing | Web | API | SQL**
+**Junior QA Engineer | Manual Testing | Test Automation (Basic) | Web | API | SQL**
 
-I’m transitioning into QA after several years of hands-on digital work, bringing a strong sense of structure, visual clarity, and analytical thinking.  
-Currently completing my QA program at Mate Academy and building practical projects that reflect real testing workflows: functional checks, regression cycles, exploratory testing, API requests, and clean, readable documentation.
+I’m transitioning into QA after several years of hands-on digital work, bringing a strong sense of structure, visual clarity, and analytical thinking.
 
-I'm passionate about organized systems, thoughtful UX, and the oddly satisfying moment when a bug finally reveals itself.
+I’ve **completed the QA program at Mate Academy** and built practical projects that reflect real testing workflows: functional testing, regression cycles, exploratory testing, API validation, basic test automation, and clear, readable documentation.
 
----
-
-**What I’m Working On**
-
-- Manual Web Testing project (test cases, bug reports, summary)  
-- API testing with Postman  
-- SQL validation queries  
-- Exploratory testing reports  
-- Improving Git workflow and documentation  
+I’m passionate about organized systems, thoughtful UX, and the oddly satisfying moment when a bug finally reveals itself 🐞
 
 ---
 
-**QA Skill Set**
+## 🔧 What I’m Working On
 
-**Testing Types:**  
-Functional • Regression • Smoke • Exploratory • UI/UX Review • Cross-browser • Responsive  
-
-**Testing Techniques:**  
-Boundary Value Analysis • Equivalence Partitioning • Test Case Design • Bug Reporting  
-
-**Tools:**  
-Jira • TestRail • Postman • Git • GitHub • Chrome DevTools • Linux (basic)  
-
-**Tech:**  
-HTML • CSS • JavaScript (basics) • SQL  
-
-**Other:**  
-Figma • Adobe Suite • WordPress
+- Manual web testing projects (test cases, bug reports, test summaries)
+- API testing with Postman
+- Basic test automation using **Playwright (JavaScript)**
+- SQL validation queries
+- Exploratory testing reports
+- Improving Git workflow and documentation
 
 ---
+
+## 🧪 QA Skill Set
+
+### Testing Types
+- Functional
+- Regression
+- Smoke
+- Exploratory
+- UI/UX Review
+- Cross-browser
+- Responsive testing
+
+### Testing Techniques
+- Boundary Value Analysis
+- Equivalence Partitioning
+- Test Case Design
+- Bug Reporting
+
+### Tools
+- Jira
+- TestRail
+- Postman
+- Git
+- GitHub
+- Chrome DevTools
+- Linux (basic)
+
+### Test Automation (Basic)
+- Playwright
+- JavaScript-based test scripts
+- Understanding of automated testing concepts
+
+### Tech
+- HTML
+- CSS
+- JavaScript (basics)
+- SQL
+
+### Other
+- Figma
+- Adobe Suite
+- WordPress
 
 **My QA Projects**
 
