@@ -65,7 +65,16 @@ I’m passionate about organized systems, thoughtful UX, and the oddly satisfyin
 
 **My QA Projects**
 
-**1. Web Application Manual Testing**  
+**1. Huntd Web & Mobile Application Manual Testing**
+
+- 411+ test cases
+- 30+ bugs with repro steps
+- Test Plan, RTM, Permission Matrix
+- Functional, UI/UX, Regression, Smoke testing
+- Tools: Jira, TestRail
+> [Huntd QA Manual Testing Portfolio](https://github.com/darynahp/Huntd-QA-Manual-Testing-Portfolio)
+
+**2. Conduit Web Application Manual Testing**  
 - 246+ structured test cases  
 - 54+ bugs with repro steps  
 - Test plan
@@ -73,14 +82,14 @@ I’m passionate about organized systems, thoughtful UX, and the oddly satisfyin
 - Tools: Jira, TestRail  
 > [Conduit QA Manual Testing Portfolio](https://github.com/darynahp/QA-Manual-Testing-Portfolio)
 
-**2. SQL Testing & Data Validation**  
+**3. SQL Testing & Data Validation**  
 - Filtering, sorting, grouping  
 - Joins  
 - CRUD basics  
 - Real QA-style data checks  
 > [QA SQL Portfolio](https://github.com/darynahp/QA-SQL-Portfolio)
 
-**3. Postman API Testing**  
+**4. Postman API Testing**  
 - Positive & negative scenarios  
 - Collections  
 - Basic scripts  
