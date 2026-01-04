@@ -9,10 +9,6 @@ I’ve **completed the QA program at Mate Academy** and built practical projects
 I’m passionate about organized systems, thoughtful UX, and the oddly satisfying moment when a bug finally reveals itself 🐞
 
 
-![pacman](https://github.com/user-attachments/assets/bb68fc08-c98f-44e9-a580-e14124c2e961)
-
-
-
 ## 🔧 What I’m Working On
 
 - Manual web testing projects (test cases, bug reports, test summaries)
