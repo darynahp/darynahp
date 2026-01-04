@@ -18,7 +18,7 @@ After completing the intensive QA program at **Mate Academy**, I’ve been focus
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,playwright,postman,git,github,mysql,html,css,figma,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,postman,git,github,mysql,html,css,figma,wordpress" />
   </a>
 </p>
 
