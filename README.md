@@ -48,7 +48,7 @@ Comprehensive validation for RESTful services.
 * Created collections covering both positive and negative scenarios.
 * Wrote **JavaScript snippets** within Postman for automated status code and response body checks.
 * Focus: Data-driven testing and environment management.
-> [Postman API Testing](https://github.com/darynahp/Postman-API-Testing)
+> [Postman API Testing](https://github.com/darynahp/Postman-API-Testing-Portfolio)
 
 #### 3. Huntd Web & Mobile (Manual Testing)
 Full-cycle manual testing for a cross-platform application.
