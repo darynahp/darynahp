@@ -28,7 +28,6 @@ After completing the intensive QA program at **Mate Academy**, I’ve been focus
 * **Databases:** SQL (Data validation, Joins, CRUD operations)
 * **Management:** Jira, TestRail, Chrome DevTools
 
-### My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darynahp/darynahp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darynahp/darynahp/output/github-contribution-grid-snake.svg">
