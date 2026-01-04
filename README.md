@@ -41,7 +41,8 @@ Developing a maintainable automation suite for web applications.
 * Built smoke and regression tests using **JavaScript** and **Playwright**.
 * Implemented the **Page Object Model (POM)** to keep tests organized and scalable.
 * Focus: Handling dynamic elements and stable assertions.
-> [Playwright Automation Project](https://github.com/darynahp/Playwright-Automation-Project)
+> [Playwright Automation Testing
+> ](https://github.com/darynahp/Playwright-Automation-Project)
 
 #### 2. Postman API Testing
 Comprehensive validation for RESTful services.
