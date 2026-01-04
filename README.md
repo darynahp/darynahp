@@ -9,7 +9,7 @@ I’ve **completed the QA program at Mate Academy** and built practical projects
 I’m passionate about organized systems, thoughtful UX, and the oddly satisfying moment when a bug finally reveals itself 🐞
 
 
-https://github.com/user-attachments/assets/8e0ca684-5b28-47c8-9e7f-8cf4dfd91604
+![pacman](https://github.com/user-attachments/assets/bb68fc08-c98f-44e9-a580-e14124c2e961)
 
 
 
