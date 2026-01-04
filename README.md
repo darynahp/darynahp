@@ -37,28 +37,28 @@ Developing a maintainable automation suite for web applications.
 * Built smoke and regression tests using **JavaScript** and **Playwright**.
 * Implemented the **Page Object Model (POM)** to keep tests organized and scalable.
 * Focus: Handling dynamic elements and stable assertions.
-> [**View Repository**](https://github.com/darynahp/Playwright-Automation-Project)
+> [Playwright Automation Project](https://github.com/darynahp/Playwright-Automation-Project)
 
 #### 2. Postman API Testing
 Comprehensive validation for RESTful services.
 * Created collections covering both positive and negative scenarios.
 * Wrote **JavaScript snippets** within Postman for automated status code and response body checks.
 * Focus: Data-driven testing and environment management.
-> [**View Repository**](https://github.com/darynahp/Postman-API-Testing)
+> [Postman API Testing](https://github.com/darynahp/Postman-API-Testing)
 
 #### 3. Huntd Web & Mobile (Manual Testing)
 Full-cycle manual testing for a cross-platform application.
 * Managed **400+ test cases** and verified **30+ complex bugs** in Jira.
 * Created the Test Plan, RTM, and Permission Matrix from scratch.
-> [**View Portfolio**](https://github.com/darynahp/Huntd-QA-Manual-Testing-Portfolio)
+> [QA Manual Testing](https://github.com/darynahp/Huntd-QA-Manual-Testing-Portfolio)
 
 #### 4. SQL Data Validation
 Ensuring data integrity between the UI and the backend.
 * Verified complex data flows using **Joins**, filtering, and aggregate functions.
 * Practical application of CRUD operations for database state testing.
-> [**View SQL Portfolio**](https://github.com/darynahp/QA-SQL-Portfolio)
+> [QA SQL Testing](https://github.com/darynahp/QA-SQL-Portfolio)
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let's Connect!
 I’m always up for a chat about QA workflows, automation, or new tech. Catch me on LinkedIn or via email!
