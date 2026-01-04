@@ -1,20 +1,20 @@
 # Hi, I'm Daryna 👋
 
-**QA Engineer | Web & API Testing | Automation**
+**QA Engineer | Web & API Testing | Test Automation**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darynahopanchuk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darynahopanchuk)
+[![Gmail](https://img.shields.io/badge/gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darynahopanchuk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darynahopanchuk)
 
 ---
 
 ### 💻 About Me
-I build structured testing environments for web and API products. My approach focuses on finding the "why" behind a bug and ensuring that software doesn't just work, but stays resilient through updates. 
+I’m a QA Engineer focused on exploring software from every angle to ensure a seamless user experience. I focus on end-to-end web testing, API validation, and building automated scripts that actually save time.
 
-I’ve spent the last year at **Mate Academy** refining my workflow—moving from exploratory manual testing to building automated suites that streamline the delivery process. I value logic-driven bug reporting and clean, maintainable documentation.
+After completing the intensive QA program at **Mate Academy**, I’ve been focusing on the logic behind the bugs—not just finding them, but documenting them clearly to bridge the gap between testing and development. Currently, I'm deep-diving into **Playwright** for UI automation and **Postman** for API testing.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,43 +22,43 @@ I’ve spent the last year at **Mate Academy** refining my workflow—moving fro
   </a>
 </p>
 
-* **Testing:** Functional, Regression, Smoke, UI/UX Review
-* **API:** REST validation, Postman Collections, Automated scripts
+* **Testing:** Functional, Regression, Smoke, Exploratory, UI/UX
+* **API Testing:** Postman (Collections, Scripts, Environment Variables)
 * **Automation:** Playwright (JavaScript), Page Object Model (POM)
+* **Databases:** SQL (Data validation, Joins, CRUD operations)
 * **Management:** Jira, TestRail, Chrome DevTools
 
 ---
 
-### 🧪 QA Projects
+### 🧪 Featured Projects
 
-#### 1. Huntd Web & Mobile Application (Manual)
-End-to-end testing for a cross-platform application.
-* Managed **400+ test cases** and documented **30+ verified bugs**.
-* Developed the full testing lifecycle: Test Plan, RTM, and Permission Matrix.
-* **Tools:** Jira, TestRail.
-> [**View Portfolio**](https://github.com/darynahp/Huntd-QA-Manual-Testing-Portfolio)
-
-#### 2. Playwright Automation Framework
-Developing a reliable automation suite for web applications.
-* Built a smoke and regression suite using **JavaScript** and the Page Object Model.
-* Focused on stable selectors and clear assertions to reduce test flakiness.
-* **Tools:** Playwright, VS Code, Git.
+#### 1. Playwright Automation Framework
+Developing a maintainable automation suite for web applications.
+* Built smoke and regression tests using **JavaScript** and **Playwright**.
+* Implemented the **Page Object Model (POM)** to keep tests organized and scalable.
+* Focus: Handling dynamic elements and stable assertions.
 > [**View Repository**](https://github.com/darynahp/Playwright-Automation-Project)
 
-#### 3. Postman API Testing Collection
-Comprehensive API validation for RESTful services.
-* Created collections for positive/negative scenarios and environment variable management.
-* Implemented JavaScript scripts for automated response and status code validation.
-* **Tools:** Postman, Newman.
+#### 2. Postman API Testing
+Comprehensive validation for RESTful services.
+* Created collections covering both positive and negative scenarios.
+* Wrote **JavaScript snippets** within Postman for automated status code and response body checks.
+* Focus: Data-driven testing and environment management.
 > [**View Repository**](https://github.com/darynahp/Postman-API-Testing)
 
-#### 4. SQL Data Validation & Testing
-Ensuring data integrity and backend consistency.
-* Performing complex **Joins**, filtering, and CRUD operations to verify UI data against the database.
-* Simulating real QA-style data checks and edge cases.
+#### 3. Huntd Web & Mobile (Manual Testing)
+Full-cycle manual testing for a cross-platform application.
+* Managed **400+ test cases** and verified **30+ complex bugs** in Jira.
+* Created the Test Plan, RTM, and Permission Matrix from scratch.
+> [**View Portfolio**](https://github.com/darynahp/Huntd-QA-Manual-Testing-Portfolio)
+
+#### 4. SQL Data Validation
+Ensuring data integrity between the UI and the backend.
+* Verified complex data flows using **Joins**, filtering, and aggregate functions.
+* Practical application of CRUD operations for database state testing.
 > [**View SQL Portfolio**](https://github.com/darynahp/QA-SQL-Portfolio)
 
 ---
 
 ### 📬 Let's Connect
-I'm always open to discussing QA methodologies, automation strategies, or new opportunities. Feel free to reach out via LinkedIn or Email!
+I’m always up for a chat about QA workflows, automation, or new tech. Catch me on LinkedIn or via email!
