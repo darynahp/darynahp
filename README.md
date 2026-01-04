@@ -45,9 +45,9 @@ Developing a maintainable automation suite for web applications.
 
 #### 2. Postman API Testing
 Comprehensive validation for RESTful services.
-* Created collections covering both positive and negative scenarios.
-* Wrote **JavaScript snippets** within Postman for automated status code and response body checks.
-* Focus: Data-driven testing and environment management.
+* Created 45+ requests covering CRUD operations, Auth, and negative edge cases.
+* Wrote JavaScript snippets for JSON Schema validation and automated status checks.
+* Focus: Pre-request scripts for test independence and collection variable management.
 > [Postman API Testing](https://github.com/darynahp/Postman-API-Testing-Portfolio)
 
 #### 3. Huntd Web & Mobile (Manual Testing)
