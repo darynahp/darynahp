@@ -8,9 +8,8 @@
 ---
 
 ### 💻 About Me
-I’m a QA Engineer focused on exploring software from every angle to ensure a seamless user experience. I focus on end-to-end web testing, API validation, and building automated scripts that actually save time.
-
-After completing the intensive QA program at **Mate Academy**, I’ve been focusing on the logic behind the bugs—not just finding them, but documenting them clearly to bridge the gap between testing and development. Currently, I'm deep-diving into **Playwright** for UI automation and **Postman** for API testing.
+I’m a QA Engineer passionate about making web and mobile apps work smoothly. I test end-to-end, validate APIs, and build automated scripts with Playwright, Jest, and JavaScript that actually save time.
+I love digging into bugs, designing test scenarios, and validating data with SQL, Postman, and DBeaver. I work closely with teams using Jira, TestRail, Git, and Unix tools to help deliver software that just works.
 
 ---
 
